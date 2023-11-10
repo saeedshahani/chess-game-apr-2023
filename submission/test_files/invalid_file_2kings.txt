@@ -1,0 +1,3 @@
+6
+Kd2, Bc1, Bc2, Bd4
+Ka2, Ka1
